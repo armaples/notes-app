@@ -1,7 +1,7 @@
 # Note Taker
 
 ## Description
-This project ensures the functionality of provided starter code for a note taking app. 
+This project ensures the functionality of provided starter code for a note taking app. Everything functions as it should: you can create a new note and save it, that note will show up on the sidebar, and you can click it again for later access. The only function that does not work yet is the delete funciton. 
 
 ## Table of Contents
 
@@ -12,12 +12,13 @@ This project ensures the functionality of provided starter code for a note takin
     - [MIT License](#mit-license)
 
 ## Application Preview
-
+![Application Preview](./public/assets/images/image1.png)
+![Application Preview](./public/assets/images/image2.png)
 
 ## Important Links
 
-- [Github Repository]()
-- [Deployed Application]()
+- [Github Repository](https://github.com/armaples/notes-app)
+- [Deployed Application](https://sheltered-cliffs-49983.herokuapp.com/)
 
 ## Credits
 - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) 
