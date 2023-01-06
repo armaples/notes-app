@@ -12,8 +12,8 @@ This project ensures the functionality of provided starter code for a note takin
     - [MIT License](#mit-license)
 
 ## Application Preview
-![Application Preview](./public/assets/images/image1.png)
-![Application Preview](./public/assets/images/image2.png)
+![Application Preview](./Develop/public/assets/images/image1.png)
+![Application Preview](./Develop/public/assets/images/image2.png)
 
 ## Important Links
 
